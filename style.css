@@ -1,2 +1,11 @@
 body{
-    background-color: brown;   }
+    background-color: grey;
+    background-image: url(img2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: red;
+   }
+   img{
+       padding: 40px;
+       
+   }
